@@ -18,6 +18,9 @@
     "uuid": "^9.0.0",
     "express-rate-limit": "^7.1.5"
   },
+  "engines": {
+  "node": ">=18"
+  },
   "devDependencies": {
     "nodemon": "^3.0.2"
   }
