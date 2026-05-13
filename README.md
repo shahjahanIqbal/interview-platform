@@ -199,19 +199,6 @@ To use a different model, set `HF_CHAT_MODEL` in `backend/.env`. Any instruction
 
 ---
 
-## 📊 Evaluation Criteria Coverage
-
-| Criteria | Implementation |
-|----------|---------------|
-| **Functionality (30pts)** | All features working: interview flow, evaluation, timer, voice, export, resume |
-| **UI/UX Design (15pts)** | Dark futuristic theme, responsive, animated, clean typography |
-| **Code Quality (15pts)** | Modular files, separation of concerns, error handling, no hardcoding |
-| **AI Integration (20pts)** | HuggingFace API for questions, evaluation, follow-ups, summaries |
-| **Innovation (10pts)** | Voice mode, tab monitoring, resume parsing, visual analytics dashboard |
-| **Documentation (10pts)** | This README, inline code comments, .env.example files |
-
----
-
 ## ⚠️ Troubleshooting
 
 **"HUGGINGFACE_API_KEY not configured"**
